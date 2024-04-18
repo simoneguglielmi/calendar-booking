@@ -1,5 +1,5 @@
-from cat.mad_hatter.decorators import tool # type: ignore
-import requests # type: ignore
+from cat.mad_hatter.decorators import tool 
+import requests 
 
 class Calendly:
     def __init__(self, token: str):
