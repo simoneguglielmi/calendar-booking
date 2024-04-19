@@ -1,10 +1,10 @@
 {
   "name": "Calendar Booking",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin that allows you to book appointments on a calendar.",
   "author_name": "Sgulli",
   "author_url": "https://github.com/simoneguglielmi",
   "plugin_url": "https://github.com/simoneguglielmi/calendar_booking",
   "tags": "plugin, calendar",
-  "thumb": "https://github.com/simoneguglielmi/calendar_booking/logo.jpg"
+  "thumb": "https://github.com/simoneguglielmi/calendar_booking/main/logo.png"
 }
