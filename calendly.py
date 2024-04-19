@@ -7,11 +7,6 @@ class Calendly:
             "Authorization": f"Bearer {token}",
             "Content-Type": "application/json"
         }
-        
-    def test(self):
-        if self.headers.get("Authorization") is None:
-            return "Non è stata configurata l'API Key, impossibile ottenere eventi."
-        return "API Key configurata correttamente."
 
     def get_user(self):
         url = f"{self.base_url}/users/me"
